@@ -1,0 +1,5 @@
+{
+    "url": "https://github.com/CodSpeedHQ/codspeed-cpp/releases/download/vminor/codspeed-cpp-vminor.tar.gz",
+    "integrity": "sha256-wL0qsO3uaULDZD3julQBrN0GL1ZSCFGPmALpLO2MYOY=",
+    "strip_prefix": "codspeed-cpp-vminor/core"
+}
