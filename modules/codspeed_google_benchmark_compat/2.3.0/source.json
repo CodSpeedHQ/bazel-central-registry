@@ -1,0 +1,5 @@
+{
+    "url": "https://github.com/CodSpeedHQ/codspeed-cpp/releases/download/v2.3.0/codspeed-cpp-v2.3.0.tar.gz",
+    "integrity": "sha256-J2doVahYp6kafEXd1DywLI4EvuURmz+2OLSpvpB2zE4=",
+    "strip_prefix": "codspeed-cpp-v2.3.0/google_benchmark"
+}
